@@ -23,7 +23,7 @@
 
 <br/>  
 
-### 🎓 I'm a Student at UPN "Veteran"East Java  
+### 🎓 I'm a Student at UPN "Veteran" East Java  
   
 
 - 🌱 I’m currently learning ReactJS  
