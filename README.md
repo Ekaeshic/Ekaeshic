@@ -26,13 +26,13 @@
 ### 🎓 I'm a Student at UPN "Veteran" East Java  
   
 
-- 🌱 I’m currently learning ReactJS  
+- 🌱 I’m currently diving into Game Programming using Unity
   
 
 - 🚀 My goal is to master all of my interest  
   
 
-- ⚡ Fun fact:  日本語を勉強しています  
+- ⚡ I love drawing anime
   
 
 <br/>  
