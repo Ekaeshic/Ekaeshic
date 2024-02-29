@@ -23,7 +23,7 @@
 
 <br/>  
 
-### 🎓 I'm a Student at UPN "Veteran" East Java  
+### 🎓 I'm an Information Technology Degree Fresh Graduate from UPN "Veteran" East Java  
   
 
 - 🌱 I’m currently diving into Game Programming using Unity
